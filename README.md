@@ -280,12 +280,12 @@ Sometimes the classes are not in session so you have to wait a couple of months,
         -   ~~Learn how to make yourself ready for software engineer interviews from a former Google interviewer.~~
     -   [ ] ~~[Python for Data Structures, Algorithms, and Interviews (paid course)](https://www.udemy.com/python-for-data-structures-algorithms-and-interviews/):~~
         -   ~~A Python centric interview prep course which covers data structures, algorithms, mock interviews and much more.~~
-    -   [ ] ~~[Intro to Data Structures and Algorithms using Python (Udacity free course)](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513):~~
+    -   [ ] [Intro to Data Structures and Algorithms using Python (Udacity free course)](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513):
         -   ~~A free Python centric data structures and algorithms course.~~
     -   [ ] ~~[Data Structures and Algorithms Nanodegree! (Udacity paid Nanodegree)](https://www.udacity.com/course/data-structures-and-algorithms-nanodegree--nd256):~~
         -   ~~Get hands-on practice with over 100 data structures and algorithm exercises and guidance from a dedicated mentor to help prepare you for interviews and on-the-job scenarios.~~
-    -   [ ] ~~[Grokking the Behavioral Interview (Educative free course)](https://www.educative.io/courses/grokking-the-behavioral-interview):~~
-        -   ~~Many times, it’s not your technical competency that holds you back from landing your dream job, it’s how you perform on the behavioral interview.~~
+    -   [ ] [Grokking the Behavioral Interview (Educative free course)](https://www.educative.io/courses/grokking-the-behavioral-interview):
+        -   Many times, it’s not your technical competency that holds you back from landing your dream job, it’s how you perform on the behavioral interview.
 
 ## Pick One Language for the Interview
 
